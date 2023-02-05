@@ -1,0 +1,33 @@
+* {align-items: center;}
+.mainowl {max-width: 100%;
+height: auto;
+margin: auto;
+max-height: 50%;
+min-height: 40%;
+padding-top: 5px;
+display: block;
+border-radius: 30px;}
+figcaption {color: brown;
+border-bottom: 2px solid grey;
+font-size: 22;
+margin: auto;
+text-align: center;}
+footer {text-align: center;}
+main {background-color: white; border-radius: 20px;}
+a {color: brown;}
+html {background-color: beige;}
+li {padding: 10 0 10 0;
+}
+ul {text-align: center;
+}
+div {background-color: white; border-radius: 20px;max-height: 50%;
+min-height: 40%;
+margin-top: 40px;
+padding-top: 5px;
+padding-bottom: 5px;}
+.headleft {object-fit: cover; height: 30px; width: 30px; padding-right: 30px;}
+.headright {object-fit: cover;height: 30px; width: 30px; padding-left: 30px;
+}
+h1 {text-align: center;
+color: brown;
+border-bottom: 2px solid black;}
