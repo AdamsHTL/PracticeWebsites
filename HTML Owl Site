@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+  <main id="main">
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="styles.css">
+<header>
+  <h1><title id="title">Test Page Two</title><img class="headleft" id="owlhead" src="https://i.pinimg.com/736x/98/42/96/98429672e7ab7089a85ea058da1e31b3--owl-eyes-corporate-logos.jpg">All Things Owl<img class="headright" src="https://i.pinimg.com/736x/98/42/96/98429672e7ab7089a85ea058da1e31b3--owl-eyes-corporate-logos.jpg">
+  </h1>
+  </header>
+  <figure id="img-div">
+    <img class="mainowl" display="block" src="https://www.britishbirdofpreycentre.co.uk/media/1262/orchid.jpg" id="image">
+    <figcaption id="img-caption">This is a barn owl!</figcaption>
+  </figure>
+  
+  <footer id="tribute-info">Please learn more about these wonderful creatures <a id="tribute-link" target="_blank" href="https://www.barnowltrust.org.uk/">here</a>!
+  </footer>
+  
+</main>
+<div>
+  <ul id="owllist"><b>Here are some fun facts about barn owls!</b>
+    <li>Barn owls eat mostly voles, shrews, mice and sometimes rats.</li>
+    <li>Food is often swallowed whole – bits of fur and bone are then regurgitated (coughed up) as an owl pellet</li>
+    <li>Barn owls screech – they never hoot (that’s tawny owls).</li>
+    <li>The scientific Latin name for Barn Owl is Tyto alba alba.</li>
+    <li>Barn Owls have very long legs, toes and talons to help them to catch prey hidden under long grass.</li>
+    <li>Barn Owls usually hunt at night – even in total darkness they can find the smallest vole using their super-sensitive hearing.</li>
+    </ul>
+</div>
+  </html>
